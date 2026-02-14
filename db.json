@@ -30,11 +30,221 @@
             "brand": "Apple",
             "model": "iPhone XS",
             "price": "$150",
-            "ram": 64,
+            "ram": "64",
             "color": "Black",
             "power": "93",
             "docs": true,
             "image": "https://frankfurt.apollo.olxcdn.com/v1/files/nw15vl5qc2wn2-UZ/image"
+        },
+        "2": {
+            "brand": "Essence",
+            "model": "Essence Mascara Lash Princess",
+            "price": "$9.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
+        },
+        "3": {
+            "brand": "Glamour Beauty",
+            "model": "Eyeshadow Palette with Mirror",
+            "price": "$19.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp"
+        },
+        "4": {
+            "brand": "Velvet Touch",
+            "model": "Powder Canister",
+            "price": "$14.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp"
+        },
+        "5": {
+            "brand": "Chic Cosmetics",
+            "model": "Red Lipstick",
+            "price": "$12.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp"
+        },
+        "6": {
+            "brand": "Nail Couture",
+            "model": "Red Nail Polish",
+            "price": "$8.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp"
+        },
+        "7": {
+            "brand": "Calvin Klein",
+            "model": "Calvin Klein CK One",
+            "price": "$49.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp"
+        },
+        "8": {
+            "brand": "Chanel",
+            "model": "Chanel Coco Noir Eau De",
+            "price": "$129.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp"
+        },
+        "9": {
+            "brand": "Dior",
+            "model": "Dior J'adore",
+            "price": "$89.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp"
+        },
+        "10": {
+            "brand": "Dolce & Gabbana",
+            "model": "Dolce Shine Eau de",
+            "price": "$69.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp"
+        },
+        "11": {
+            "brand": "Gucci",
+            "model": "Gucci Bloom Eau de",
+            "price": "$79.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp"
+        },
+        "12": {
+            "brand": "Annibale Colombo",
+            "model": "Annibale Colombo Bed",
+            "price": "$1899.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp"
+        },
+        "13": {
+            "brand": "Annibale Colombo",
+            "model": "Annibale Colombo Sofa",
+            "price": "$2499.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp"
+        },
+        "14": {
+            "brand": "Furniture Co.",
+            "model": "Bedside Table African Cherry",
+            "price": "$299.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp"
+        },
+        "15": {
+            "brand": "Knoll",
+            "model": "Knoll Saarinen Executive Conference Chair",
+            "price": "$499.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp"
+        },
+        "16": {
+            "brand": "Bath Trends",
+            "model": "Wooden Bathroom Sink With Mirror",
+            "price": "$799.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp"
+        },
+        "17": {
+            "brand": "Unknown",
+            "model": "Apple",
+            "price": "$1.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
+        },
+        "18": {
+            "brand": "Unknown",
+            "model": "Beef Steak",
+            "price": "$12.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp"
+        },
+        "19": {
+            "brand": "Unknown",
+            "model": "Cat Food",
+            "price": "$8.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp"
+        },
+        "20": {
+            "brand": "Unknown",
+            "model": "Chicken Meat",
+            "price": "$9.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+        },
+        "21": {
+            "brand": "Unknown",
+            "model": "Cooking Oil",
+            "price": "$4.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp"
+        },
+        "22": {
+            "brand": "Unknown",
+            "model": "Cucumber",
+            "price": "$1.49",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp"
+        },
+        "23": {
+            "brand": "Unknown",
+            "model": "Dog Food",
+            "price": "$10.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp"
+        },
+        "24": {
+            "brand": "Unknown",
+            "model": "Eggs",
+            "price": "$2.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp"
+        },
+        "25": {
+            "brand": "Unknown",
+            "model": "Fish Steak",
+            "price": "$14.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp"
+        },
+        "26": {
+            "brand": "Unknown",
+            "model": "Green Bell Pepper",
+            "price": "$1.29",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp"
+        },
+        "27": {
+            "brand": "Unknown",
+            "model": "Green Chili Pepper",
+            "price": "$0.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp"
+        },
+        "28": {
+            "brand": "Unknown",
+            "model": "Honey Jar",
+            "price": "$6.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp"
+        },
+        "29": {
+            "brand": "Unknown",
+            "model": "Ice Cream",
+            "price": "$5.49",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/thumbnail.webp"
+        },
+        "30": {
+            "brand": "Unknown",
+            "model": "Juice",
+            "price": "$3.99",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp"
+        },
+        "31": {
+            "brand": "Unknown",
+            "model": "Kiwi",
+            "price": "$2.49",
+            "battery": "Unknown",
+            "image": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
         }
     }
 }
